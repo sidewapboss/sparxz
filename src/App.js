@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import './App.css';
+import AforevoPlayer from 'aforevo-player';
 
 function App() {
   return (
